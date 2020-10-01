@@ -1,0 +1,72 @@
+.vehicle-on-track {
+  padding: 0;
+  padding-right: 1%;
+  border-radius: 0.3125rem;
+}
+.distance-driven {
+  padding: 0;
+  padding-left: 1%;
+  border-radius: 0.3125rem;
+}
+.cus-card .card-body {
+  background-color: #fff;
+  width: 99%;
+  padding: 25px;
+}
+
+.cus-card {
+  /* margin-top: 10px; */
+  margin-bottom: 10px;
+}
+
+.cus-card .card-body .card-title {
+  color: #8798ad;
+  width: 99%;
+  font-size: 100%;
+}
+
+.card-large-content {
+  font-size: 50px;
+}
+
+.card-small-content {
+  font-size: 50%;
+  margin-left: 10px;
+}
+
+.notice-list .notice {
+  border: 1px solid rgba(46, 91, 255, 0.1);
+  border-left: 4px solid #054bff;
+  box-sizing: border-box;
+  border-radius: 5px;
+  padding: 10px 10px 5px 25px;
+  margin-top: 10px;
+}
+
+.notice-list a{
+  text-decoration: none;
+}
+
+.notice-list .notice .notice-name {
+  font-weight: 600;
+  color: #2E384D;
+}
+
+.notice-list .notice .notice-content {
+  color: #8798ad;
+}
+
+.notice-list .notice .notice-content span {
+  float: right;
+}
+
+.notice-seemore a{
+  color: #8798ad;
+  margin-top: 40px;
+  float: right;
+  text-decoration: none;
+}
+
+.notice-seemore a:hover{
+  color: #2E384D;
+}
